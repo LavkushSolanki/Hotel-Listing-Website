@@ -7,10 +7,12 @@
 ## This is the login page of WANDERLUST website with flash card funtionality
 
 ![Screenshot (138)](https://github.com/LavkushSolanki/Hotel-Listing-Website/assets/156509767/68c812b0-b1d4-4d24-8e5b-b64589e5117c)
+![Screenshot (139)](https://github.com/LavkushSolanki/Hotel-Listing-Website/assets/156509767/f821417f-16cd-46d6-a4cd-90271fd296eb)
+
 
 ## Implemented CRED functionality on the listings
 
-![Screenshot (139)](https://github.com/LavkushSolanki/Hotel-Listing-Website/assets/156509767/f821417f-16cd-46d6-a4cd-90271fd296eb)
+
 ![Screenshot (140)](https://github.com/LavkushSolanki/Hotel-Listing-Website/assets/156509767/190094bf-2ffe-4b80-adbf-326a2487786f)
 ![Screenshot (141)](https://github.com/LavkushSolanki/Hotel-Listing-Website/assets/156509767/0136b476-80a1-45e4-99a0-35190c0e7fd6)
 ![Screenshot (143)](https://github.com/LavkushSolanki/Hotel-Listing-Website/assets/156509767/a4a74ea0-16e8-4348-9d5c-8143b5d7670c)
