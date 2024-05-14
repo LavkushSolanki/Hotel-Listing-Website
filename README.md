@@ -24,8 +24,8 @@
 
 
 # Various FEATURES of WANDERLUST
-**1)Session:** This feature will create a individual session for each user enables a user to create its own listing and reviews and no other can delete them.
-**2)Image Upload:** This feature enables a user to upload an image for his/her listings(used multer)
-**3)Error Handling:** Instant error handling features using **middlewares** are present in WANDERLUST which provide a detailed and informative way to interacting with user without hampering the user experience
+**1)Session:** This feature will create a individual session for each user enables a user to create its own listing and reviews and no other can delete them.<br>
+**2)Image Upload:** This feature enables a user to upload an image for his/her listings(used multer)<br>
+**3)Error Handling:** Instant error handling features using **middlewares** are present in WANDERLUST which provide a detailed and informative way to interacting with user without hampering the user experience<br>
 
-and explore more features available in WANDERLUST and do provide me with reviews about its user's experience
+and explore more features available in WANDERLUST and do provide me with reviews about its user's experience :relaxed: :relaxed:
